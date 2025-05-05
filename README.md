@@ -22,3 +22,10 @@ CREATE TABLE employees (
     phone VARCHAR(20),
     gender ENUM('Male', 'Female') NOT NULL
 );
+
+
+mysql 
+user :root
+password :
+
+ubah password dan username saat ini harus ubah dari database.vb
